@@ -22,7 +22,7 @@ public class FibonacciSeriesUpToN {
 //0+1=1
 //1+1=2
 //1+2=3
-//2+3=5
+//2+3=5F
 //3+5=8
 //8+5=13
 
