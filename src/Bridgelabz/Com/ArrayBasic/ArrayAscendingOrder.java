@@ -1,4 +1,4 @@
-package Bridgelabz.Com.Basics.ArrayBasic;
+package Bridgelabz.Com.ArrayBasic;
 
 import java.util.Scanner;
 
